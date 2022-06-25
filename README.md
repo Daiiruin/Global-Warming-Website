@@ -5,4 +5,4 @@
 
 <hr>
   
-  <p>Hey! Here is a site in HTML and CSS about global warming, I make it from this video to train! If you are a beginner, you can go watch it, it explains very well! (Please note the video is in French 🇫🇷)</p>
+  <p>Hey! Here is a site in HTML and CSS about global warming, I make it from this video to train! If you are a beginner, you can go watch it, the guy explains very well! (Please note the video is in French 🇫🇷)</p>
